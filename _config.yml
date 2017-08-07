@@ -19,7 +19,7 @@ description: "Esse é um blog minimalista criado para aprender como funciona ess
 baseurl: "/blogjekyll" # the subpath of your site, e.g. /blog
 url: "http://renansuperlogica.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: minimal_twitter
-github_username:  renanponcianop
+github_username:  renansuperlogica
 
 # Build settings
 markdown: kramdown
