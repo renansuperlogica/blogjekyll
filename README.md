@@ -8,9 +8,11 @@
 
 ## Projeto
 
-I created this project to study a new technology in a quickly course that you can find [here](https://www.udemy.com/criando-sites-estaticos-com-jekyll/)
+I created this project to study a new technology in a quickly course that you can find [here](https://www.udemy.com/criando-sites-estaticos-com-jekyll/).
 
 Unfortunately the course is late with the technology but is a good start.
+
+You can enter in the blog [HERE](https://renansuperlogica.github.io/blogjekyll/).
 
 ## License
 
